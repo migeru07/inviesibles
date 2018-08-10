@@ -450,6 +450,10 @@ input:focus, textarea:focus {
 	.video-demo-contenedor {
 		margin: 0 10px 40px;
 	}
+	/*Formulario*/
+	.formulario label {
+	margin-bottom: 18px;
+	}
 }
 
 @media screen and (max-width: 500px) {
